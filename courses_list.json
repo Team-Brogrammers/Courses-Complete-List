@@ -1,0 +1,385 @@
+﻿[
+	{
+		"Course Code": "COMS1015",
+		"Description": "Basic Computer organisation",
+		"Credits ": "9",
+		"Level": "1",
+		"Semester": "1",
+		"Pre-requisite": "",
+		"Co-requisite": "MATH1034 MATH1036",
+		"School": "COMPUTER SCIENCE"
+	},
+	{
+		"Course Code": "COMS1016",
+		"Description": "Discrete Computational Structures",
+		"Credits ": "9",
+		"Level": "1",
+		"Semester": "2",
+		"Pre-requisite": "",
+		"Co-requisite": "MATH1034 MATH1037",
+		"School": "COMPUTER SCIENCE"
+	},
+	{
+		"Course Code": "COMS1017",
+		"Description": "Introduction to Data Structures and Algorithms",
+		"Credits ": "9",
+		"Level": "1",
+		"Semester": "2",
+		"Pre-requisite": "",
+		"Co-requisite": "MATH1034 MATH1038",
+		"School": "COMPUTER SCIENCE"
+	},
+	{
+		"Course Code": "COMS1018",
+		"Description": "Introduction to Algorithms and Programming",
+		"Credits ": "9",
+		"Level": "1",
+		"Semester": "1",
+		"Pre-requisite": "",
+		"Co-requisite": "MATH1034 MATH1039",
+		"School": "COMPUTER SCIENCE"
+	},
+	{
+		"Course Code": "COMS2002",
+		"Description": "Database Fundamentals",
+		"Credits ": "12",
+		"Level": "2",
+		"Semester": "1",
+		"Pre-requisite": "COMS1017",
+		"Co-requisite": "",
+		"School": "COMPUTER SCIENCE"
+	},
+	{
+		"Course Code": "COMS2013",
+		"Description": "Mobile Computing",
+		"Credits ": "12",
+		"Level": "2",
+		"Semester": "1",
+		"Pre-requisite": "COMS 1018 COMS1017",
+		"Co-requisite": "COMS2002",
+		"School": "COMPUTER SCIENCE"
+	},
+	{
+		"Course Code": "COMS2014",
+		"Description": "Computer Networks",
+		"Credits ": "12",
+		"Level": "2",
+		"Semester": "2",
+		"Pre-requisite": "COMS 1018 COMS1017 COMS1015",
+		"Co-requisite": "",
+		"School": "COMPUTER SCIENCE"
+	},
+	{
+		"Course Code": "COMS2015",
+		"Description": "Analysis of Algorithms",
+		"Credits ": "12",
+		"Level": "2",
+		"Semester": "2",
+		"Pre-requisite": "COMS 1018 COMS1017 COMS1015 COMS1016 MATH1036 MATH1034",
+		"Co-requisite": "MATH2015 MATH2021 MATH2019 STAT2012",
+		"School": "COMPUTER SCIENCE"
+	},
+	{
+		"Course Code": "COMS3003",
+		"Description": "Formal Languages and Automata",
+		"Credits ": "18",
+		"Level": "3",
+		"Semester": "1",
+		"Pre-requisite": " COMS1016 COMS2015 MATH2015 MATH2021 STAT2012 MATH2019",
+		"Co-requisite": "",
+		"School": "COMPUTER SCIENCE"
+	},
+	{
+		"Course Code": "COMS3002",
+		"Description": "Software Engineering",
+		"Credits ": "18",
+		"Level": "3",
+		"Semester": "2",
+		"Pre-requisite": "COMS2002 MATH2021 STAT2012 MATH2019",
+		"Co-requisite": "",
+		"School": "COMPUTER SCIENCE"
+	},
+	{
+		"Course Code": "COMS3005",
+		"Description": "Advanced Analysis of Algorithms",
+		"Credits ": "18",
+		"Level": "3",
+		"Semester": "2",
+		"Pre-requisite": "COMS2015 MATH2019 STAT2012 MATH2021",
+		"Co-requisite": "",
+		"School": "COMPUTER SCIENCE"
+	},
+	{
+		"Course Code": "COMS3009",
+		"Description": "Software Design",
+		"Credits ": "18",
+		"Level": "3",
+		"Semester": "2",
+		"Pre-requisite": "COMS2001 COMS2002 COMS2014 COMS2015 MATH2019",
+		"Co-requisite": "",
+		"School": "COMPUTER SCIENCE"
+	},
+	{
+		"Course Code": "COMS3010",
+		"Description": "Operating Systems and System Programming",
+		"Credits ": "18",
+		"Level": "3",
+		"Semester": "1",
+		"Pre-requisite": "COMS2013 COMS2014 COMS2015 MATH2019 MATH2021 MATH2015  STAT2012",
+		"Co-requisite": "",
+		"School": "COMPUTER SCIENCE"
+	},
+	{
+		"Course Code": "COMS3008",
+		"Description": "Parallel Computing",
+		"Credits ": "18",
+		"Level": "3",
+		"Semester": "2",
+		"Pre-requisite": "COMS2001 COMS2014 COMS2015",
+		"Co-requisite": "",
+		"School": "COMPUTER SCIENCE"
+	},
+	{
+		"Course Code": "COMS3007",
+		"Description": "Machine Learning",
+		"Credits ": "18",
+		"Level": "3",
+		"Semester": "1",
+		"Pre-requisite": "COMS2015 MATH2019 STAT2012",
+		"Co-requisite": "",
+		"School": "COMPUTER SCIENCE"
+	},
+	{
+		"Course Code": "COMS3006",
+		"Description": "Computer Graphics and Visualisation",
+		"Credits ": "18",
+		"Level": "3",
+		"Semester": "1",
+		"Pre-requisite": "COMS2015 MATH2019 MATH2021",
+		"Co-requisite": "",
+		"School": "COMPUTER SCIENCE"
+	},
+	{
+		"Course Code": "COMS3011",
+		"Description": "Software Design Project",
+		"Credits ": "18",
+		"Level": "3",
+		"Semester": "2",
+		"Pre-requisite": "COMS2002 COMS2015 MATH2019",
+		"Co-requisite": "",
+		"School": "COMPUTER SCIENCE"
+	},
+	{
+		"Course Code": "MATH1036",
+		"Description": "Calculus",
+		"Credits ": "21",
+		"Level": "1",
+		"Semester": "FY",
+		"Pre-requisite": "",
+		"Co-requisite": "",
+		"School": "MATHEMATICS"
+	},
+	{
+		"Course Code": "MATH1034",
+		"Description": "Algebra",
+		"Credits ": "15",
+		"Level": "1",
+		"Semester": "FY",
+		"Pre-requisite": "",
+		"Co-requisite": "",
+		"School": "MATHEMATICS"
+	},
+	{
+		"Course Code": "MATH1041",
+		"Description": "Auxillary Mathematics",
+		"Credits ": "36",
+		"Level": "1",
+		"Semester": "FY",
+		"Pre-requisite": "",
+		"Co-requisite": "",
+		"School": "MATHEMATICS"
+	},
+	{
+		"Course Code": "MATH2003",
+		"Description": "Differential Equations",
+		"Credits ": "8",
+		"Level": "2",
+		"Semester": "2",
+		"Pre-requisite": "MATH1034 MATH1036",
+		"Co-requisite": "MATH2022 MATH2021 MATH2019",
+		"School": "MATHEMATICS"
+	},
+	{
+		"Course Code": "MATH2015",
+		"Description": "Abstract Mathematics ",
+		"Credits ": "8",
+		"Level": "2",
+		"Semester": "2",
+		"Pre-requisite": "MATH1034 MATH1036",
+		"Co-requisite": "MATH2022 MATH2021 MATH2019",
+		"School": "MATHEMATICS"
+	},
+	{
+		"Course Code": "MATH2019",
+		"Description": "Linear Algebra II",
+		"Credits ": "8",
+		"Level": "2",
+		"Semester": "1",
+		"Pre-requisite": "MATH1034 MATH1036",
+		"Co-requisite": "",
+		"School": "MATHEMATICS"
+	},
+	{
+		"Course Code": "MATH2021",
+		"Description": "Multivariable Calculus II",
+		"Credits ": "12",
+		"Level": "2",
+		"Semester": "1",
+		"Pre-requisite": "MATH1034 MATH1036",
+		"Co-requisite": "",
+		"School": "MATHEMATICS"
+	},
+	{
+		"Course Code": "MATH2022",
+		"Description": "Introductory Analysis",
+		"Credits ": "12",
+		"Level": "2",
+		"Semester": "FY",
+		"Pre-requisite": "MATH1034 MATH1036",
+		"Co-requisite": "",
+		"School": "MATHEMATICS"
+	},
+	{
+		"Course Code": "MATH2025",
+		"Description": "Transition to Abstract Mathematics",
+		"Credits ": "8",
+		"Level": "2",
+		"Semester": "2",
+		"Pre-requisite": "MATH1034 MATH1036",
+		"Co-requisite": "MATH2022 MATH2021 MATH2019",
+		"School": "MATHEMATICS"
+	},
+	{
+		"Course Code": "MATH3001",
+		"Description": "Number Theory",
+		"Credits ": "12",
+		"Level": "3",
+		"Semester": "1",
+		"Pre-requisite": "MATH2022 MATH2015",
+		"Co-requisite": "",
+		"School": "MATHEMATICS"
+	},
+	{
+		"Course Code": "MATH3003",
+		"Description": "Coding and Cryptography",
+		"Credits ": "12",
+		"Level": "3",
+		"Semester": "2",
+		"Pre-requisite": "MATH2022 MATH2015",
+		"Co-requisite": "",
+		"School": "MATHEMATICS"
+	},
+	{
+		"Course Code": "MATH3004",
+		"Description": "Complex Analysis",
+		"Credits ": "12",
+		"Level": "3",
+		"Semester": "2",
+		"Pre-requisite": "MATH2022 MATH2015 MATH2019 MATH2021",
+		"Co-requisite": "",
+		"School": "MATHEMATICS"
+	},
+	{
+		"Course Code": "MATH3006",
+		"Description": "Group Theory",
+		"Credits ": "12",
+		"Level": "3",
+		"Semester": "1",
+		"Pre-requisite": "MATH2022 MATH2015 MATH2019",
+		"Co-requisite": "",
+		"School": "MATHEMATICS"
+	},
+	{
+		"Course Code": "MATH3009",
+		"Description": "Rings and Fields",
+		"Credits ": "12",
+		"Level": "3",
+		"Semester": "2",
+		"Pre-requisite": "MATH2022 MATH2015 MATH2019",
+		"Co-requisite": "MATH3006",
+		"School": "MATHEMATICS"
+	},
+	{
+		"Course Code": "MATH3010",
+		"Description": "Topology",
+		"Credits ": "12",
+		"Level": "3",
+		"Semester": "1",
+		"Pre-requisite": "MATH2022 MATH2015 MATH2019",
+		"Co-requisite": "",
+		"School": "MATHEMATICS"
+	},
+	{
+		"Course Code": "MATH3031",
+		"Description": "Differential Geometry",
+		"Credits ": "12",
+		"Level": "3",
+		"Semester": "2",
+		"Pre-requisite": "MATH2022 MATH2015 MATH2019 MATH2021 MATH2003 OR MATH2025 OR STAT2012",
+		"Co-requisite": "",
+		"School": "MATHEMATICS"
+	},
+	{
+		"Course Code": "MATH3032",
+		"Description": "Real Analysis",
+		"Credits ": "12",
+		"Level": "3",
+		"Semester": "1",
+		"Pre-requisite": "MATH2022",
+		"Co-requisite": "",
+		"School": "MATHEMATICS"
+	},
+	{
+		"Course Code": "MATH3034",
+		"Description": "Leontief Systems",
+		"Credits ": "12",
+		"Level": "3",
+		"Semester": "2",
+		"Pre-requisite": "MATH2021 MATH2019",
+		"Co-requisite": "",
+		"School": "MATHEMATICS"
+	},
+	{
+		"Course Code": "APPM1006",
+		"Description": "COMPUTATIONAL AND APPLIED MATHEMATICS",
+		"Credits ": "36",
+		"Level": "1",
+		"Semester": "FY",
+		"Pre-requisite": "",
+		"Co-requisite": "MATH1036 MATH1034",
+		"School": "COMPUTATIONAL AND APPLIED MATHEMATICS"
+	},
+	{
+		"Course Code": "APPM2007",
+		"Description": "COMPUTATIONAL AND APPLIED MATHEMATICS",
+		"Credits ": "48",
+		"Level": "2",
+		"Semester": "FY",
+		"Pre-requisite": "APPM1006 MATH1034 MATH1036",
+		"Co-requisite": "MATH2022 MATH2015 MATH2019 MATH2021 OR MATH2025 OR STAT2012",
+		"School": "COMPUTATIONAL AND APPLIED MATHEMATICS"
+	},
+	{
+		"Course Code": "APPM3017",
+		"Description": "COMPUTATIONAL AND APPLIED MATHEMATICS",
+		"Credits ": "72",
+		"Level": "3",
+		"Semester": "FY",
+		"Pre-requisite": "APPM2007 MATH2022 MATH2015 MATH2019 MATH2021 OR MATH2025 OR STAT2012 OR MATH2003",
+		"Co-requisite": "",
+		"School": "COMPUTATIONAL AND APPLIED MATHEMATICS"
+	},
+	{
+		"Course Code": ""
+	}
+]
